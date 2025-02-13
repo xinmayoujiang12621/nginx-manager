@@ -1,0 +1,6 @@
+{
+    "nginx_path": "D:\\software\\nginx-1.26.3\\nginx.exe",
+    "config_path": "D:\\software\\nginx-1.26.3\\conf\\nginx.conf",
+    "last_backup_dir": "D:\\projects\\nginx-manager\\backups",
+    "auto_reload": true
+}
