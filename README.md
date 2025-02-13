@@ -1,0 +1,1 @@
+基于pyqt6的windows上nginx配置可视化应用
